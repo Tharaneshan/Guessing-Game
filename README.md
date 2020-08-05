@@ -1,5 +1,5 @@
 # Guessing-Game
-A guessing game where you choose from the numbers 1 to 20 and you keep on guessing until you get it right.
+Java code of a guessing game where you choose from the numbers 1 to 20 and you keep on guessing until you get it right.
 
     import java.lang.Math;
     import java.util.Scanner;
